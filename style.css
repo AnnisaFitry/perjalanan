@@ -1,0 +1,33 @@
+.jumbotron{
+	padding-top: 4rem;
+	background-color: #9ec2ff;
+}
+
+.judul{
+	padding-left: 2rem;
+	padding-top: 1rem;
+}
+
+.about{
+	padding-top: 1rem;
+}
+
+#kontak{
+	background-color: #9ec2ff;
+}
+
+section{
+	padding-top: 5rem;
+}
+
+.halaman-md{
+	background-color: #9ec2ff;
+}
+
+.navigasi{
+	background-color: #32503f;
+}
+
+.beranda{
+	background-color: #95b782;
+}
